@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @AegAtt
-- 👀 I’m interested in cyber security
+- 👋 Hi, I’m Abdelghani ATTATFA
+- 👀 I’m interested in cybersecurity, programming
 - 🌱 I’m currently learning owasp top 10
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me [linkedin.com/in/attatfa-abdelghani]
